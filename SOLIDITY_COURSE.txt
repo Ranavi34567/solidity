@@ -1,0 +1,16 @@
+1. GREETINGS PROBLEM ON SOLIDITY 
+
+//SPDX-License-Identifier:MIT 
+pragma solidity ^0.8.18;
+contract MyFirstContract {
+    string public greet="welcome to solidity";
+    uint256 public num= 67;
+
+    //constructor(string memory _greet,uint256 _num){
+       // greet=_greet;
+       // num=_num;
+   // }
+
+}
+
+---------------------------------------------------------
